@@ -19,9 +19,11 @@ InteriorDesign_Landing_Page_Project_10
 
 •	Background image and its properties
 
-•	picking color from an image to implement on my website
+•	CSS Positions
 
 •	Button customization
+
+•	Media Queries for Responsiveness
 
 ## Acknowledgement👇
 
