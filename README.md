@@ -11,7 +11,7 @@ InteriorDesign_Landing_Page_Project_10
 
 ## Project Thumbnail👇
 
-![thumbnail](https://github.com/webdevankur/DAO_LANDING_PAGE_PROJECT_5/blob/main/thumbnail.png)
+![thumbnail](https://github.com/webdevankur/InteriorDesign_Landing_Page_Project_10/blob/main/10.png)
 
 
 ## What have i learned in this Project
