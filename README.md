@@ -7,7 +7,7 @@ InteriorDesign_Landing_Page_Project_10
 
 ## Project Link👇
 
-[Live link](https://heartfelt-souffle-32da53.netlify.app)
+[Live link (Mobile Responsive)](https://playful-pika-78d8b5.netlify.app)
 
 ## Project Thumbnail👇
 
