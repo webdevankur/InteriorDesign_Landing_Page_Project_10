@@ -1,0 +1,111 @@
+
+@media screen and (max-width:1200px){
+   
+   .design-text{
+    font-size: 4.5rem;
+   }
+    
+}
+   
+
+@media screen and (max-width:950px){
+    html{
+         font-size: 60%;
+        
+    }
+    .list-item{
+        display: none;
+    }
+    .hamburger div{
+        display:flex;
+    }
+    .list{
+        order: 3;
+    }
+    
+ }
+ @media screen and (max-width:900px){
+   
+    .container{
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    .hero-container{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+ }
+
+ @media screen and (max-width:768px){
+   
+    html{
+        font-size: 60%;
+    }
+
+}
+@media screen and (min-width:426px)and (max-width:750px){
+   
+    
+    .navbar{
+        gap:10px;
+    }
+    .design-text{
+        font-size: 3.5rem;
+    }
+    .bulb{
+        top: 25rem;
+    }
+   
+}
+ @media screen and (max-width:425px){
+    html{
+        font-size: 50%;
+    }
+    body{
+        overflow-y: visible;
+    }
+    .navbar{
+        gap: 20px;
+    }
+    .hero-container{
+        padding-top: 50px;
+    }
+    .bulb{
+        left: -32rem;
+        top: 80rem;
+    }
+    .puzzle{
+        left: -17rem;
+        top: 58rem;
+        width:200px;
+    }
+    .design-text{
+        margin-left:150px;
+    }
+ }
+ @media screen and (max-width:390px){
+    
+    .bulb{
+        width: 130px;
+        left: -23rem;
+    }
+    .puzzle{
+        left: -20rem;
+        top: 61rem;
+        width: 180px;
+
+    }
+    .navbar{
+        gap: 5px;
+    }
+    .logo h1{
+        font-size:medium;
+    }
+    .call-content{
+        font-size: 15px;
+    }
+    .hamburger div{
+        height: 3px;
+        width:30px;
+    }
+}
